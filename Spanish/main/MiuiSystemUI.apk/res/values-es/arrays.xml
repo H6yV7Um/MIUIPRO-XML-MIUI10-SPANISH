@@ -19,36 +19,36 @@
     <item>Máximo 4 procesos</item>
   </string-array>
   <string-array name="battery_options">
-    <item>Always show percentage</item>
-    <item>Show percentage when charging (default)</item>
-    <item>Don\'t show this icon</item>
+    <item>Mostrar siempre porcentaje</item>
+    <item>Mostrar porcentaje al cargar (predeterminado)</item>
+    <item>No mostrar este icono</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-    <item>Use system preference (Default)</item>
-    <item>16 bits/sample</item>
-    <item>24 bits/sample</item>
-    <item>32 bits/sample</item>
+    <item>Usar preferencia del sistema (predeterminado)</item>
+    <item>16 bits/muestra</item>
+    <item>24 bits/muestra</item>
+    <item>32 bits/muestra</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-    <item>Use system preference (Default)</item>
+    <item>Usar preferencia del sistema (predeterminado)</item>
     <item>Mono</item>
     <item>Stereo</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-    <item>Use system preference (Default)</item>
+    <item>Usar preferencia del sistema (predeterminado)</item>
     <item>Mono</item>
     <item>Stereo</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-    <item>Optimized for audio quality</item>
-    <item>Balanced audio and connection quality</item>
-    <item>Optimized for connection quality</item>
-    <item>Best effect (Adaptive bit rate)</item>
+    <item>Optimizado para calidad de audio</item>
+    <item>Calidad de audio y conexión balanceada</item>
+    <item>Optimizado para la calidad de conexión</item>
+    <item>Mejor efecto (velocidad de bits adaptable)</item>
   </string-array>
   <string-array name="clock_options">
-    <item>Show hours, minutes, and seconds</item>
-    <item>Show hours and minutes (default)</item>
-    <item>Don\'t show this icon</item>
+    <item>Mostrar horas, minutos y segundos</item>
+    <item>Mostrar horas y minutos (por defecto)</item>
+    <item>No mostrar este icono</item>
   </string-array>
   <string-array name="color_mode_descriptions">
     <item>Colores mejorados</item>
@@ -82,21 +82,21 @@
     <item>Siempre comprobar</item>
   </string-array>
   <string-array name="nav_bar_buttons">
-    <item>Clipboard</item>
-    <item>Keycode</item>
-    <item>Keyboard switcher</item>
-    <item>None</item>
+    <item>Portapapeles</item>
+    <item>El código de la tecla</item>
+    <item>Conmutador de teclado</item>
+    <item>Ninguno</item>
   </string-array>
   <string-array name="nav_bar_layouts">
     <item>Normal</item>
-    <item>Compact</item>
-    <item>Left-leaning</item>
-    <item>Right-leaning</item>
+    <item>Compacto</item>
+    <item>Inclinación de izquierda</item>
+    <item>Derecho-inclinación</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Ninguna</item>
     <item>480p</item>
-    <item>480p (secure)</item>
+    <item>480p (seguro)</item>
     <item>720p</item>
     <item>720p (seguro)</item>
     <item>1080p</item>
@@ -108,10 +108,10 @@
     <item>720p, 1080p (pantalla dual)</item>
   </string-array>
   <string-array name="select_logpersist_titles">
-    <item>Off</item>
-    <item>All</item>
-    <item>All except radio</item>
-    <item>Kernel only</item>
+    <item>Apagado</item>
+    <item>Todos</item>
+    <item>Todos excepto radio</item>
+    <item>Sólo kernel</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivado</item>

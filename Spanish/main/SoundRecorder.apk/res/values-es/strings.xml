@@ -146,7 +146,7 @@
   <string name="text_btn_play">Reproducción</string>
   <string name="text_btn_recognize">Identificar</string>
   <string name="text_btn_recording">Grabar</string>
-  <string name="text_btn_wave">Wave</string>
+  <string name="text_btn_wave">Onda</string>
   <string name="text_finish">Confirmar</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>

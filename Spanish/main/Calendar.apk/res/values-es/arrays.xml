@@ -3,12 +3,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
   <string-array name="aqi_level_simple_desc">
-    <item>优</item>
-    <item>良</item>
-    <item>轻度</item>
-    <item>中度</item>
-    <item>重度</item>
-    <item>严重</item>
+    <item>Excelente</item>
+    <item>Liang</item>
+    <item>Leve</item>
+    <item>Moderado</item>
+    <item>Grave</item>
+    <item>Serio</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>acuario</item>
@@ -79,8 +79,8 @@
     <item>@string/english_premium_league</item>
   </string-array>
   <string-array name="entryvalues_settings_debug">
-    <item>无</item>
-    <item>导出并发送日志</item>
+    <item>Ninguno</item>
+    <item>Exportar y enviar registros</item>
     <item>生成日志至文件管理器</item>
   </string-array>
   <string-array name="fortune_gender">
@@ -101,17 +101,17 @@
     <item>10-01-1982</item>
   </string-array>
   <string-array name="fortune_random_name">
-    <item>王伟</item>
-    <item>李东</item>
-    <item>孙辉</item>
-    <item>李俊</item>
-    <item>周永</item>
-    <item>郑健</item>
-    <item>黄海</item>
-    <item>郑飞飞</item>
-    <item>程杰</item>
-    <item>宋小宝</item>
-    <item>郭德纲</item>
+    <item>Wang Wei</item>
+    <item>Li Dong</item>
+    <item>Sun Hui</item>
+    <item>Li Jun</item>
+    <item>Zhou Yong</item>
+    <item>Zheng Jian</item>
+    <item>Huang Hai</item>
+    <item>Zheng Feifei</item>
+    <item>Cheng Jie</item>
+    <item>Song Xiaobao</item>
+    <item>Guo Degang</item>
   </string-array>
   <string-array name="gemini_info">
     <item>géminis</item>

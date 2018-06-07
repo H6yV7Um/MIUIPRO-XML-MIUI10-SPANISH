@@ -134,14 +134,14 @@
   <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Usar para el acceso SIM</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"selecciona el códec de audio Bluetooth: bits por muestra"</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">selecciona el códec de audio Bluetooth: bits por muestra</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Modo audio del canal de Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"selecciona el códec de audio Bluetooth: modo canal"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">selecciona el códec de audio Bluetooth: modo canal</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: la Calidad de la Reproducción</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccione Bluetooth Audio LDAC Códec:
 La Calidad De La Reproducción"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Velocidad de muestreo de audio Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"selecciona el códec de audio Bluetooth: velocidad de muestreo"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">selecciona el códec de audio Bluetooth: velocidad de muestreo</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Códec de audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccionar códec de audio Bluetooth</string>

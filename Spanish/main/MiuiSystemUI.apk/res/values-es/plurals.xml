@@ -3,15 +3,15 @@
 <resources>
   <plurals name="accessibility_recent_task_enter">
     <item quantity="other">Recientemente abiertas, aplicaciones disponibles: %d.</item>
-    <item quantity="one">Recientemente abiertas, aplicación disponible: 1.</item>
+    <item quantity="one">Recientemente abiertas, aplicaciones disponibles: %d.</item>
   </plurals>
   <plurals name="accessibility_recent_task_first_enter_tips">
     <item quantity="other">Recientemente abiertas, aplicaciones disponibles: %d. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</item>
-    <item quantity="one">Recientemente abiertas, aplicación disponible: 1. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</item>
+    <item quantity="one">Recientemente abiertas, aplicaciones disponibles: %d. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</item>
   </plurals>
   <plurals name="block_record_notification_more_text">
     <item quantity="other">Ocultando notificaciones de %1$s y %2$d aplicaciones.</item>
-    <item quantity="one">Ocultando notificaciones de %1$s y 1 aplicación.</item>
+    <item quantity="one">Ocultando notificaciones de %1$s y %2$d aplicaciones.</item>
   </plurals>
   <plurals name="disable_notification_confirm_title">
     <item quantity="other">¿Ocultar las notificaciones de %d aplicaciones?</item>
@@ -66,32 +66,32 @@
     <item quantity="one">%1$d h %2$d m</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
-    <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
-    <item quantity="one">Enter SIM PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+    <item quantity="other">Introduzca PIN de la SIM, usted tiene %d intentos restantes antes de que usted deba ponerse en contacto con su operador de desbloquear el dispositivo.</item>
+    <item quantity="one">Introduzca PIN de la SIM, usted tiene %d intentos restantes antes de que usted deba ponerse en contacto con su operador de desbloquear el dispositivo.</item>
   </plurals>
   <plurals name="kg_password_default_puk_message">
     <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-    <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
+    <item quantity="one">SIM está ahora desactivada. Introduzca el código PUK para continuar. Usted tiene %d intentos restantes antes de SIM se convierte permanentemente inutilizable. Póngase en contacto con su operador para mas detalles.</item>
   </plurals>
   <plurals name="kg_password_wrong_pin_code">
     <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-    <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+    <item quantity="one">Código PIN SIM incorrecto, tiene %d intentos restantes antes de que usted debe entrar en contacto con su portador para desbloquear su dispositivo.</item>
   </plurals>
   <plurals name="kg_password_wrong_puk_code">
     <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-    <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+    <item quantity="one">Código PUK incorrecto, usted tiene %d intentos restantes antes de que la SIM se vuelva permanentemente inutilizable.</item>
   </plurals>
   <plurals name="kg_prompt_reason_time_password">
     <item quantity="other">Device hasn\'t been unlocked for %d hours. Confirm password.</item>
-    <item quantity="one">Device hasn\'t been unlocked for %d hour. Confirm password.</item>
+    <item quantity="one">Dispositivo no ha sido desbloqueado para %d Hora. Confirme la contraseña.</item>
   </plurals>
   <plurals name="kg_prompt_reason_time_pattern">
     <item quantity="other">Device hasn\'t been unlocked for %d hours. Confirm pattern.</item>
-    <item quantity="one">Device hasn\'t been unlocked for %d hour. Confirm pattern.</item>
+    <item quantity="one">Dispositivo no ha sido desbloqueado para %d Hora. Confirme el patrón.</item>
   </plurals>
   <plurals name="kg_prompt_reason_time_pin">
     <item quantity="other">Device hasn\'t been unlocked for %d hours. Confirm PIN.</item>
-    <item quantity="one">Device hasn\'t been unlocked for %d hour. Confirm PIN.</item>
+    <item quantity="one">Dispositivo no ha sido desbloqueado para %d Hora. Confirme el PIN.</item>
   </plurals>
   <plurals name="new_notifications_msg">
     <item quantity="other">%d nuevas notificaciones</item>
@@ -99,7 +99,7 @@
   </plurals>
   <plurals name="notification_channels_list_desc_2_and_others">
     <item quantity="other">%1$s, %2$s, and %3$d others</item>
-    <item quantity="one">%1$s, %2$s, and %3$d other</item>
+    <item quantity="one">%1$s, %2$s, y %3$d otros</item>
   </plurals>
   <plurals name="notification_group_overflow_description">
     <item quantity="other">%s notificaciones más en el interior.</item>
@@ -107,7 +107,7 @@
   </plurals>
   <plurals name="notification_num_channels_desc">
     <item quantity="other">1 out of %d notification categories from this app</item>
-    <item quantity="one">1 out of %d notification category from this app</item>
+    <item quantity="one">1 de %d Categoría de notificación de esta aplicación</item>
   </plurals>
   <plurals name="phone_locked_timeout_minutes_string">
     <item quantity="other">Vuelve a intentarlo en %d minutos</item>

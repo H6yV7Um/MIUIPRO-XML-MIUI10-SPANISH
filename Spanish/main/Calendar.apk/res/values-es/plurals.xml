@@ -7,16 +7,16 @@
     <item quantity="one">%d día antes</item>
   </plurals>
   <plurals name="Ndays_after">
-    <item quantity="other">%1$d天后</item>
-    <item quantity="one">%1$d天后</item>
+    <item quantity="other">%1$dDías después</item>
+    <item quantity="one">%1$dDías después</item>
   </plurals>
   <plurals name="Ndays_after_at">
     <item quantity="other">En %1$d días a las %2$s</item>
     <item quantity="one">En %1$d día a las %2$s</item>
   </plurals>
   <plurals name="Ndays_ago">
-    <item quantity="other">%1$d天前</item>
-    <item quantity="one">%1$d天前</item>
+    <item quantity="other">%1$dDías atrás</item>
+    <item quantity="one">%1$dDías atrás</item>
   </plurals>
   <plurals name="Ndays_ago_at">
     <item quantity="other">%1$d días antes a las %2$s</item>

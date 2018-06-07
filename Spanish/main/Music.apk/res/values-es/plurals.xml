@@ -51,7 +51,7 @@
     <item quantity="one">%d canción similar</item>
   </plurals>
   <plurals name="Nunbackup_audios">
-    <item quantity="other">"%1$d canciones no se han copiado (%2$.1fMB)"</item>
+    <item quantity="other">%1$d canciones no se han copiado (%2$.1fMB)</item>
     <item quantity="one">"%1$d canción no se ha copiado (%2$.1fMB)"</item>
   </plurals>
   <plurals name="Nupload_song_button">
