@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_search">Search apps</string>
+     <string name="bugreport_tool_log_dumping_desc">Takes about a minute</string>
+     <string name="bugreport_tool_log_dumping_title">Creating bug report</string>
+     <string name="customer_service_apply">Request customer service</string>
+     <string name="customer_service_complain">Report customer service</string>
+     <string name="customer_service_station">Service locations</string>
+     <string name="default_text_view">TextView</string>
+     <string name="feedback_choose_reproductivity">Reproductivity</string>
+     <string name="feedback_choose_third_app_name">Select app name</string>
+     <string name="feedback_delete_images">Delete images</string>
+     <string name="feedback_select_modem_log">Add modem logs</string>
+     <string name="feedback_select_modem_log_not_select_desc">"Haven't selected \"Add modem logs\""</string>
+     <string name="feedback_select_modem_log_select_desc">Selected \"Add modem logs\"</string>
+     <string name="feedback_select_problem_not_select_desc">"Haven't selected \"Issues\""</string>
+     <string name="feedback_select_problem_select_desc">Selected \"Issues\"</string>
+     <string name="feedback_select_suggestion_not_select_desc">"Haven't selected \"Suggestions\""</string>
+     <string name="feedback_select_suggestion_select_desc">Selected \"Suggestions\"</string>
+     <string name="feedback_select_upload_log_not_select_desc">"Haven't selected \"Add logs\""</string>
+     <string name="feedback_select_upload_log_select_desc">Selected \"Add logs\"</string>
+     <string name="feedback_status_collect_log_failed">"Couldn't get logs"</string>
+     <string name="feedback_status_get_and_save_bbs_info_failed">"Couldn't get attachment URL"</string>
+     <string name="feedback_status_save_log_info_failed">"Couldn't change attachment URL"</string>
+     <string name="feedback_status_submit_attachment">Submitted attachment successfully</string>
+     <string name="feedback_status_submit_bbs_failed">"Couldn't submit feedback content"</string>
+     <string name="feedback_status_submit_feedback_failed">"Couldn't submit feedback"</string>
+     <string name="feedback_status_upload_log_failed">"Couldn't upload attachments"</string>
+     <string name="feedback_submit_hint_gone">Closed message</string>
+     <string name="feedback_title_reproductivity">Select reproductivity</string>
+     <string name="first_position">2#</string>
+     <string name="floor">%1$s#</string>
+     <string name="issue_search">Search</string>
+     <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
+     <string name="mobile_data_note_dialog_confirm">Upload</string>
+     <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
+     <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
+     <string name="mobile_data_note_dialog_title">Data usage warning</string>
+     <string name="modem_tool_log_dumping_desc">Click icon to stop</string>
+     <string name="modem_tool_log_dumping_title">Capturing modem logs</string>
+     <string name="modem_tool_log_finish_desc">Log is saved as %s</string>
+     <string name="modem_tool_log_finish_title">Modem log captured</string>
+     <string name="module_google_apps">Google apps</string>
+     <string name="nothing">--</string>
+     <string name="pic_view_format">%1$s/%2$s</string>
+     <string name="second_position">3#</string>
+     <string name="select_system_app_tag">Select an issue</string>
+     <string name="toast_loading_app_id">Getting info…</string>
+     <string name="toast_log_too_large">"Can't upload. The file is too big."</string>
+     <string name="toast_screenshot_too_large">"Can't upload files bigger than 10MB."</string>
+</resources>

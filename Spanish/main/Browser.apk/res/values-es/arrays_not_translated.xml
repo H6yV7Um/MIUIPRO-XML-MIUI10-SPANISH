@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="hot_words_item_text_bg_color">
+        <item>0xFFF2F6E8</item>
+        <item>0xFFE8F6F6</item>
+        <item>0xFFF6F6F6</item>
+        <item>0xFFF7F2EC</item>
+        <item>0xFFF9EBEB</item>
+     </integer-array>
+     <integer-array name="hot_words_item_text_frame_color">
+        <item>0xFFBAC49F</item>
+        <item>0xFFA3CED7</item>
+        <item>0xFFADADAD</item>
+        <item>0xFFE1C7A6</item>
+        <item>0xFFDBACB6</item>
+     </integer-array>
+     <string-array name="pref_fling_on_border_gesture_values">
+        <item>back_forward</item>
+        <item>switch_tabs</item>
+        <item>none</item>
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Phone</item>
+        <item>Pad</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vertical view</item>
+        <item>Horizontal view</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_code">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>49</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>99</item>
+        <item>301</item>
+        <item>33</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_message">
+        <item>Clear</item>
+        <item>Partly cloudy</item>
+        <item>Cloudy</item>
+        <item>Shower</item>
+        <item>Thunderstorm</item>
+        <item>Hail</item>
+        <item>Sleet</item>
+        <item>Light rain</item>
+        <item>Moderate rain</item>
+        <item>Heavy rain</item>
+        <item>Rainstorm</item>
+        <item>Torrential rain</item>
+        <item>Extreme rainstorm</item>
+        <item>Snow shower</item>
+        <item>Light snow</item>
+        <item>Moderate snow</item>
+        <item>Heavy snow</item>
+        <item>Blizzard</item>
+        <item>Fog</item>
+        <item>Freezing rain</item>
+        <item>Sandstorm</item>
+        <item>Light to moderate rain</item>
+        <item>Moderate to heavy rain</item>
+        <item>Heavy to torrential rain</item>
+        <item>Torrential rain to downpour</item>
+        <item>Downpour to extreme rainstorm</item>
+        <item>Light to moderate snow</item>
+        <item>Moderate to heavy snow</item>
+        <item>Heavy snow to blizzard</item>
+        <item>Floating dust</item>
+        <item>Raising sand</item>
+        <item>Sandstorm</item>
+        <item>Dense fog</item>
+        <item>Strong fog</item>
+        <item>Haze</item>
+        <item>Moderate haze</item>
+        <item>Heavy haze</item>
+        <item>Severe haze</item>
+        <item>Dense fog</item>
+        <item>Strong dense fog</item>
+        <item>None</item>
+        <item>Rain</item>
+        <item>Snow</item>
+     </string-array>
+</resources>

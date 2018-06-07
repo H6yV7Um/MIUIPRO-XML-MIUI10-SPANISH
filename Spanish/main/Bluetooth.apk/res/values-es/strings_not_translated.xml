@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="bt_enable_title" />
+     <string name="defaultname">Carkit</string>
+     <string name="download_line4" />
+     <string name="opp_notification_group">Bluetooth Share</string>
+     <string name="pairing_ui_package">com.android.settings</string>
+     <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
+     <string name="pbap_notification_group">Bluetooth Contact share</string>
+     <string name="process" />
+     <string name="sharedUserId" />
+</resources>
