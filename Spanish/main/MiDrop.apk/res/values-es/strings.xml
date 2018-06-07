@@ -28,7 +28,7 @@
   <string name="Unregister">Anular registro</string>
   <string name="action_settings">Ajustes</string>
   <string name="app_name">Mi Drop</string>
-  <string name="btn_goto_grant">Permitir</string>
+  <string name="btn_goto_grant">Allow</string>
   <string name="cancel_confirm">Cancelar</string>
   <string name="cancel_confirm_title">Transferencia no completada, ¿cancelar ahora?</string>
   <string name="cancel_receive_confirm">Cancelar</string>
