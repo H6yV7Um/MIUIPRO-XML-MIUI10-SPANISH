@@ -12,10 +12,10 @@
   <string name="credential_name">Nombre del certificado:</string>
   <string name="credential_password">Escriba la contraseña para extraer los certificados.</string>
   <string name="credential_usage_label">Uso de credenciales:</string>
-  <string name="done_label">DONE</string>
+  <string name="done_label">Hecho</string>
   <string name="extracting_pkcs12">Extrayendo…</string>
-  <string name="install_done">%1$s credentials have been added to WLAN saved networks.</string>
-  <string name="install_done_title">Credentials installed</string>
+  <string name="install_done">%1$s se han agregado credenciales a las redes WLAN guardadas.</string>
+  <string name="install_done_title">Credenciales instalados</string>
   <string name="invalid_cert">El certificado no es válido.</string>
   <string name="n_cacrts">%d certificados CA</string>
   <string name="name_char_error">Escriba una palabra que contenga únicamente letras y números.</string>
@@ -38,34 +38,34 @@
   <string name="sdcard_not_present">Almacenamiento USB no disponible.</string>
   <string name="unable_to_save_cert">No se pudo guardar el certificado. El almacenamiento de credenciales no está activado o iniciado correctamente.</string>
   <string name="wifi_cancel_label">Cancelar</string>
-  <string name="wifi_config_text">"Name: %1$s
-FQDN: %2$s
-Roaming Consortiums: %3$s
-Realm: %4$s
-Auth method: EAP-%5$s
-"</string>
-  <string name="wifi_detail_label">Details</string>
-  <string name="wifi_detail_title">Details for %s</string>
-  <string name="wifi_dismiss_label">Dismiss</string>
-  <string name="wifi_install_label">Install</string>
-  <string name="wifi_installer_detail">Install WLAN credentials to connect to networks available via %1$s.</string>
-  <string name="wifi_installer_download_error">"Downloaded file has problems and can't be installed. Make sure you downloaded the file from the correct source."</string>
-  <string name="wifi_installer_fail">"Can't install WLAN credentials. Try downloading the file again."</string>
-  <string name="wifi_installer_fail_no_wifi">Turn on WLAN and try again.</string>
-  <string name="wifi_installer_fail_no_wifi_title">Installation canceled</string>
-  <string name="wifi_installer_fail_title">"Can't install"</string>
-  <string name="wifi_installing_label">Installing</string>
-  <string name="wifi_no_config">None</string>
+  <string name="wifi_config_text">nOmbre %1$s
+Fqdn: %2$s
+Consorcios itinerantes: %3$s
+Reino: %4$s
+Método auth: EAP-%5$s
+\"</string>
+  <string name="wifi_detail_label">Detalles</string>
+  <string name="wifi_detail_title">Detalles para %s</string>
+  <string name="wifi_dismiss_label">Descartar</string>
+  <string name="wifi_install_label">Instalar</string>
+  <string name="wifi_installer_detail">Instalar credenciales WLAN para conectarse a redes disponibles mediante %1$s.</string>
+  <string name="wifi_installer_download_error">"El archivo descargado tiene problemas y no se puede instalar. Asegúrese de que ha descargado el archivo de la fuente correcta."</string>
+  <string name="wifi_installer_fail">"No se pueden instalar credenciales WLAN. Intente descargar el archivo de nuevo."</string>
+  <string name="wifi_installer_fail_no_wifi">Encienda WLAN y vuelva a intentarlo.</string>
+  <string name="wifi_installer_fail_no_wifi_title">Instalación cancelada</string>
+  <string name="wifi_installer_fail_title">"No se puede instalar"</string>
+  <string name="wifi_installing_label">Instalando</string>
+  <string name="wifi_no_config">Nada</string>
   <string name="wifi_sim_config_text">"SIM: %s
 "</string>
-  <string name="wifi_title">WLAN Profile</string>
-  <string name="wifi_tls_config_text">"Client certificate:
+  <string name="wifi_title">Perfil de WLAN</string>
+  <string name="wifi_tls_config_text">"certificado de cliente:
 %1$s
-Key: %2$s
+Clave: %2$s
 "</string>
-  <string name="wifi_trust_config_text">"Trust certificate:
+  <string name="wifi_trust_config_text">"certificado de confianza:
 %s
 "</string>
-  <string name="wifi_ttls_config_text">"User name: %s
+  <string name="wifi_ttls_config_text">"nombre de usuario: %s
 "</string>
 </resources>

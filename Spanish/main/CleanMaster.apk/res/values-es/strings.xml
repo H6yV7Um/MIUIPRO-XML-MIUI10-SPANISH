@@ -35,7 +35,7 @@
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versión antigua</string>
   <string name="apk_status_uninstalled">No instalada</string>
-  <string name="apk_title_alipay_plugin">支付宝插件</string>
+  <string name="apk_title_alipay_plugin">Plug-in Alipay</string>
   <string name="app_description_content">Cleaner encuentra la basura en su dispositivo y libera espacio de almacenamiento. Asegúrese de que puede prescindir de estas funciones antes de desinstalar la aplicación.</string>
   <string name="app_description_title">Acerca de Cleaner</string>
   <string name="app_name">JunkEngine</string>
@@ -61,8 +61,8 @@
   <string name="auto_clean_trigger_percent_sixty">Cuando el 60% está ocupado</string>
   <string name="auto_cleaner_open">Activar</string>
   <string name="back">Volver</string>
-  <string name="browser_scan_history_desc">Browser History</string>
-  <string name="browser_search_history_desc">Searched items</string>
+  <string name="browser_scan_history_desc">Historial del explorador</string>
+  <string name="browser_search_history_desc">Elementos buscados</string>
   <string name="btn_text_done">Listo</string>
   <string name="btn_text_quick_cleanup">Limpiar</string>
   <string name="btn_text_quick_cleanup_apk">%1$s Eliminar aplicaciones seleccionadas</string>
@@ -106,29 +106,29 @@
   <string name="cache_title_empty_folder2">Carpeta vacía</string>
   <string name="cache_title_system_cache">Caché del sistema</string>
   <string name="cached_garbage">Caché</string>
-  <string name="call_log">Call Logs</string>
+  <string name="call_log">Registros de llamadas</string>
   <string name="cancel">Cancelar</string>
-  <string name="cd_back">back</string>
-  <string name="cd_check_box_checked">checked</string>
-  <string name="cd_check_box_middle">partial selection</string>
-  <string name="cd_check_box_unchecked">not checked</string>
-  <string name="cd_list_item_collapse">collapsed</string>
-  <string name="cd_list_item_expanded">expanded</string>
-  <string name="cd_percent">percent</string>
-  <string name="cd_settings">settings</string>
-  <string name="cd_sort_type">sort type</string>
+  <string name="cd_back">atrás</string>
+  <string name="cd_check_box_checked">comprobado</string>
+  <string name="cd_check_box_middle">selección parcial</string>
+  <string name="cd_check_box_unchecked">sin comprobar</string>
+  <string name="cd_list_item_collapse">colapsado</string>
+  <string name="cd_list_item_expanded">ampliado</string>
+  <string name="cd_percent">por ciento</string>
+  <string name="cd_settings">configuración</string>
+  <string name="cd_sort_type">tipo de clasificación</string>
   <string name="clean_content_all">Todo</string>
   <string name="clean_content_one">1 elemento</string>
   <string name="clean_content_three">3 elementos</string>
   <string name="clean_content_two">2 elementos</string>
   <string name="clean_content_zero">Nada</string>
-  <string name="clean_long_msg">"Cleaning %1$d files,%2$d finished 
-%3$d%% item/second remained time:%4$s"</string>
+  <string name="clean_long_msg">"limpieza %1$d Archivos%2$d Terminado 
+%3$d%% artículo/segundo tiempo permanecido:%4$s"</string>
   <string name="clear_bigfiles">Eliminar archivos pesados, fotos duplicadas, y otros elementos obsoletos</string>
   <string name="clear_immediately">Limpiar ahora</string>
   <string name="clear_safe_notify">Widget de panel de notificaciones</string>
-  <string name="clip_board_history_desc">Copied/cut contents</string>
-  <string name="clipboard">Clipboard</string>
+  <string name="clip_board_history_desc">Contenido copiado/cortado</string>
+  <string name="clipboard">Portapapeles</string>
   <string name="close">Cerrar</string>
   <string name="confirm_auto_cleaner">Aceptar</string>
   <string name="conn_of_function_safe">Conexión de Red para Seguridad</string>
@@ -136,7 +136,7 @@
   <string name="deep_clean_completed_tips">Limpiado con éxito</string>
   <string name="deep_clean_data_path_clean_title">Limpiar cache</string>
   <string name="deep_clean_uninstall_completed_tips">Desinstalado correctamente</string>
-  <string name="deepclean_1_k_clean">Quick clean</string>
+  <string name="deepclean_1_k_clean">Limpieza rápida</string>
   <string name="deepclean_apk_content">Eliminar APK o aplicaciones innecesarias</string>
   <string name="deepclean_apk_summary_empty">Todo está bien; no hay APK para eliminar</string>
   <string name="deepclean_apk_version_error">Desconocido</string>
@@ -291,36 +291,36 @@
   <string name="installed">Instalado</string>
   <string name="installing">Instalando</string>
   <string name="item_title_process_mode">Elija una acción</string>
-  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
-  <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
-  <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
-  <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
-  <string name="junk_tag_RF_DemoVideo_Samsung">三星手机演示用视频</string>
-  <string name="junk_tag_RF_DemoVideo_Sony">索尼手机演示用视频</string>
-  <string name="junk_tag_RF_EmptyFolders">空文件夹</string>
-  <string name="junk_tag_RF_ImageThumbnails">相册的预览图</string>
-  <string name="junk_tag_RF_LibsDirFiles">无用的数据文件</string>
-  <string name="junk_tag_RF_LogFiles">日志文件</string>
-  <string name="junk_tag_RF_LostDirFiles">无用的系统文件</string>
-  <string name="junk_tag_RF_MFCacheDirFiles">无用的缓存文件</string>
-  <string name="junk_tag_RF_TaobaoLogFiles">手机淘宝的日志文件</string>
-  <string name="junk_tag_RF_TempFiles">临时文件</string>
-  <string name="junk_tag_RF_WechatDownload">微信下载表情时的临时文件</string>
-  <string name="junk_tag_big_file_from_name_album">相册</string>
-  <string name="junk_tag_big_file_from_name_baidu">百度地图</string>
-  <string name="junk_tag_big_file_from_name_baofeng">暴风影音</string>
-  <string name="junk_tag_big_file_from_name_bluetoothfiles">蓝牙目录</string>
-  <string name="junk_tag_big_file_from_name_camerafiles">系统相册目录</string>
-  <string name="junk_tag_big_file_from_name_downloads">下载目录</string>
-  <string name="junk_tag_big_file_from_name_fmt">来自%s</string>
-  <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
-  <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
-  <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
-  <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 &gt;清理后文件会被删除&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 &gt;清理后将无法查看&lt;/font&gt;</string>
+  <string name="junk_syscache_alert_desc">No recomendamos borrar este caché.&Lt;font color=#d64438&gt;La limpieza afectará el funcionamiento normal de la aplicación&lt;/font&amp;gt</string>
+  <string name="junk_tag_RF_DalvikCacheLeftovers">Restos del sistema de software (Dalvik-Cache)</string>
+  <string name="junk_tag_RF_DemoVideo_LG">Video de demostración móvil LG</string>
+  <string name="junk_tag_RF_DemoVideo_MIUI">Video de la pantalla de la marca del teléfono móvil Millet</string>
+  <string name="junk_tag_RF_DemoVideo_Samsung">Video de demostración móvil de Samsung</string>
+  <string name="junk_tag_RF_DemoVideo_Sony">Video de demostración móvil de Sony</string>
+  <string name="junk_tag_RF_EmptyFolders">Carpeta vacía</string>
+  <string name="junk_tag_RF_ImageThumbnails">Vista previa del álbum de fotos</string>
+  <string name="junk_tag_RF_LibsDirFiles">Archivos de datos inútiles</string>
+  <string name="junk_tag_RF_LogFiles">Archivo de registro</string>
+  <string name="junk_tag_RF_LostDirFiles">Archivos de sistema inútiles</string>
+  <string name="junk_tag_RF_MFCacheDirFiles">Archivo de caché inútil</string>
+  <string name="junk_tag_RF_TaobaoLogFiles">Archivo de registro de Mobile Taobao</string>
+  <string name="junk_tag_RF_TempFiles">Archivos temporales</string>
+  <string name="junk_tag_RF_WechatDownload">Descargue los archivos temporales de WeChat</string>
+  <string name="junk_tag_big_file_from_name_album">Álbum de fotos</string>
+  <string name="junk_tag_big_file_from_name_baidu">Mapa de Baidu</string>
+  <string name="junk_tag_big_file_from_name_baofeng">Video de tormenta</string>
+  <string name="junk_tag_big_file_from_name_bluetoothfiles">Directorio de Bluetooth</string>
+  <string name="junk_tag_big_file_from_name_camerafiles">Directorio de álbumes de sistema</string>
+  <string name="junk_tag_big_file_from_name_downloads">Descargar directorio</string>
+  <string name="junk_tag_big_file_from_name_fmt">De%s</string>
+  <string name="junk_tag_big_file_from_name_musicfiles">Directorio de música</string>
+  <string name="junk_tag_big_file_from_name_sdcard">Directorio raíz de la tarjeta de memoria</string>
+  <string name="junk_tag_big_file_from_name_videofiles">Directorio de video</string>
+  <string name="junk_tag_big_file_mergedfile_desc_aura">Es un mapa descargado por Sygic GPS, &lt; font color=#d64438 &gt;no se puede restaurar después de limpiar&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_baidumap">Es un mapa descargado del mapa de Baidu, &lt;font color=#d64438 &gt;Después de la limpieza, debe volver a descargar para usar sin conexión&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_baofeng">Este es un video descargado por Storm Video, &lt;font color=#64438 &gt;No se puede recuperar después de la limpieza&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_downloader">Es un archivo descargado usando DownloaderArchivo descargado, &lt;font color=#64438 &gt;Los archivos se eliminarán después de la limpieza&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_duokan">Esta es mi estantería leyendo más leyendo, &lt;font color=#d64438 &gt;No podrá ver después de la limpieza&lt;/font&gt;</string>
   <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 &gt;清理后将无法使用&lt;/font&gt;</string>
   <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 &gt;清理后需要联网重新下载才能离线使用&lt;/font&gt;</string>
   <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 &gt;清理后下载的 地图会被删除，需要联网重新下载&lt;/font&gt;</string>
@@ -351,16 +351,16 @@
   <string name="junk_tag_junk_big_name_downloadmanager">下载的文件</string>
   <string name="junk_tag_junk_big_name_llogs">系统无用日志文件</string>
   <string name="junk_tag_junk_big_name_mi_userbook">小米功能新手引导</string>
-  <string name="junk_tag_junk_big_name_miui_gallerydemovideo">小米功能演示视频</string>
-  <string name="junk_tag_junk_big_name_s_dic">三星字典的词库</string>
-  <string name="junk_tag_junk_big_name_s_movie">三星自带视频</string>
-  <string name="junk_tag_junk_big_name_samsung_video">三星自带视频</string>
-  <string name="junk_tag_junk_big_name_smt">语音识别数据文件</string>
-  <string name="junk_tag_junk_big_name_sys_rom">系统包软件</string>
-  <string name="junk_tag_junk_big_name_tencent_qqfile">QQ接收的文件</string>
-  <string name="junk_tag_junk_big_name_thumbnails">手机图片缩略图</string>
-  <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp视频文件</string>
-  <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
+  <string name="junk_tag_junk_big_name_miui_gallerydemovideo">Video demostrativo de la función Millet</string>
+  <string name="junk_tag_junk_big_name_s_dic">Diccionario de sinónimos de Samsung</string>
+  <string name="junk_tag_junk_big_name_s_movie">Samsung viene con video</string>
+  <string name="junk_tag_junk_big_name_samsung_video">Samsung viene con video</string>
+  <string name="junk_tag_junk_big_name_smt">Archivo de datos de reconocimiento de voz</string>
+  <string name="junk_tag_junk_big_name_sys_rom">Paquete de software del sistema</string>
+  <string name="junk_tag_junk_big_name_tencent_qqfile">QQ recibió archivos</string>
+  <string name="junk_tag_junk_big_name_thumbnails">Miniatura de imagen móvil</string>
+  <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsappArchivos de video</string>
+  <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">Registro de inserción GDC</string>
   <string name="just_now">Ahora mismo</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Ninguno</string>
@@ -379,9 +379,9 @@
   <string name="low_memory_warning_dialog_ok_button">Limpiar</string>
   <string name="low_memory_warning_dialog_title">No hay suficiente espacio libre</string>
   <string name="main_title_filesize">%1$s basura</string>
-  <string name="mainbtn_text_no_trash">Skip</string>
+  <string name="mainbtn_text_no_trash">Saltar</string>
   <string name="mainbtn_text_quick_cleanup">Limpiar %s</string>
-  <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
+  <string name="mainbtn_text_quick_cleanup_default">Limpiar</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplicaciones, %2$s de memoria</string>
   <string name="menu_add_to_white_list">Agregar a excepciones</string>
@@ -476,19 +476,19 @@
   <string name="privacy_search_desc">Historial de búsqueda</string>
   <string name="privacy_search_type">Búsqueda en Google</string>
   <string name="promotion">Anuncio</string>
-  <string name="qq_cache_files">QQ cache</string>
-  <string name="qq_clean">QQ cleaner</string>
-  <string name="qq_clean_exit_confirm_msg">Stop scanning and exit now?</string>
-  <string name="qq_clean_finish_summary">Deleted selected files successfully</string>
-  <string name="qq_data_type_cache">QQ cache</string>
-  <string name="qq_data_type_cache_desc">"You'll be able to restore these files after you connect to the internet."</string>
-  <string name="qq_data_type_chat">Chat history</string>
-  <string name="qq_data_type_chat_desc">"You won't be able to restore chat history."</string>
-  <string name="qq_data_type_normal">Trash</string>
-  <string name="qq_data_type_normal_clean_tips">"These are technical files. Deleting them won't affect your usage."</string>
-  <string name="qq_data_type_normal_desc">"Deleting them won't affect your usage."</string>
-  <string name="qq_data_type_other">Other</string>
-  <string name="qq_data_type_other_desc">Be careful, you might not be able to restore these files after you delete them.</string>
+  <string name="qq_cache_files">Caché de QQ</string>
+  <string name="qq_clean">Limpiador de QQ</string>
+  <string name="qq_clean_exit_confirm_msg">¿dejar de escanear y salir ahora?</string>
+  <string name="qq_clean_finish_summary">Eliminó correctamente los archivos seleccionados</string>
+  <string name="qq_data_type_cache">Caché de QQ</string>
+  <string name="qq_data_type_cache_desc">"Podrá restaurar estos archivos después de conectarse a Internet."</string>
+  <string name="qq_data_type_chat">Historial de chat</string>
+  <string name="qq_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
+  <string name="qq_data_type_normal">Basura</string>
+  <string name="qq_data_type_normal_clean_tips">"Estos son archivos técnicos. Eliminarlos no afectará su uso."</string>
+  <string name="qq_data_type_normal_desc">"Eliminarlos no afectará su uso."</string>
+  <string name="qq_data_type_other">Otros</string>
+  <string name="qq_data_type_other_desc">Tenga cuidado, es posible que no pueda restaurar estos archivos después de eliminarlos.</string>
   <string name="recommend_news">Recibir recomendaciones</string>
   <string name="recommend_the_following">Lleve a cabo las siguientes acciones para obtener el máximo provecho de su dispositivo</string>
   <string name="recommended">Destacado</string>
@@ -579,10 +579,10 @@
   <string name="toast_uninstall_success">Desinstalación completa</string>
   <string name="total_clean">Total eliminado: %s</string>
   <string name="total_clean_text">Limpiar</string>
-  <string name="unlike">No thanks</string>
+  <string name="unlike">No, gracias</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Escaneo de seguridad</string>
-  <string name="vungle_ad_name">Vungle广告</string>
+  <string name="vungle_ad_name">VunglePublicidad</string>
   <string name="wechat_cache_files">Caché de WeChat</string>
   <string name="wechat_chat_clean_done">Todo se ve bien</string>
   <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
@@ -620,14 +620,14 @@
   <string name="wechat_copying_video_empty">No hay videos para exportar</string>
   <string name="wechat_copying_video_success">Exportado correctamente</string>
   <string name="wechat_normal_files">Basura</string>
-  <string name="wechat_qq_activity_title">Deep clean</string>
-  <string name="wechat_qq_celan_tab_file">Files</string>
-  <string name="wechat_qq_celan_tab_image">Images</string>
+  <string name="wechat_qq_activity_title">Limpieza profunda</string>
+  <string name="wechat_qq_celan_tab_file">Archivos</string>
+  <string name="wechat_qq_celan_tab_image">Imágenes</string>
   <string name="wechat_qq_celan_tab_video">Videos</string>
-  <string name="wechat_qq_celan_tab_voice">Voice messages</string>
-  <string name="wechat_qq_chat_files">Chat history</string>
-  <string name="wechat_qq_deep_clean_button_text">Deep clean</string>
-  <string name="wechat_qq_normal_files">Trash</string>
+  <string name="wechat_qq_celan_tab_voice">Mensajes de voz</string>
+  <string name="wechat_qq_chat_files">Historial de chat</string>
+  <string name="wechat_qq_deep_clean_button_text">Limpieza profunda</string>
+  <string name="wechat_qq_normal_files">Basura</string>
   <string name="white_list_ad_header">Archivos obsoletos: %d</string>
   <string name="white_list_apk_header">Paquetes de instalación: %d</string>
   <string name="white_list_cache_header">Archivos en caché: %d</string>
@@ -642,7 +642,7 @@
   <string name="wqfile_group_chat_file">Files sent in messengers</string>
   <string name="wqfile_group_chat_pic">Images from messengers</string>
   <string name="wqfile_group_chat_video">Videos from messengers</string>
-  <string name="wqfile_group_chat_voice">Voice messages</string>
+  <string name="wqfile_group_chat_voice">Mensajes de voz</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Ayer</string>
 </resources>

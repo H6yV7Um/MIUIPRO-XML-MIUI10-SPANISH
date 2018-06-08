@@ -3,7 +3,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
   <string-array name="prefEntries_max_bytes_limit">
-    <item>Unlimited</item>
+    <item>Ilimitado</item>
     <item>100MB</item>
     <item>20MB</item>
     <item>10MB</item>
@@ -11,7 +11,7 @@
     <item>2MB</item>
     <item>1MB</item>
     <item>512KB</item>
-    <item>Always wait for Wi-Fi</item>
+    <item>Siempre espere a Wi-Fi</item>
   </string-array>
   <string-array name="prefValues_max_bytes_limit">
     <item>9223372036854775807</item>

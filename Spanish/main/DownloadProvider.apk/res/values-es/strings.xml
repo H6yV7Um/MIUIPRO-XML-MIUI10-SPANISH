@@ -9,12 +9,12 @@
   <string name="button_queue_for_wifi">Cola</string>
   <string name="button_start_now">Comenzar ahora</string>
   <string name="button_wait_for_wifi">Esperar</string>
-  <string name="channel_active">下载中</string>
-  <string name="channel_complete">下载完成</string>
-  <string name="channel_insufficient_space">空间不足</string>
-  <string name="channel_waiting">等待中</string>
+  <string name="channel_active">Descargando</string>
+  <string name="channel_complete">Descarga completada</string>
+  <string name="channel_insufficient_space">Falta de espacio</string>
+  <string name="channel_waiting">Esperando</string>
   <string name="dialog_button_cancel">Cancelar</string>
-  <string name="dialog_button_ok">Ok</string>
+  <string name="dialog_button_ok">Aceptar</string>
   <string name="dialog_content_limit0">Restringir descargas</string>
   <string name="dialog_content_limit_max">Ilimitado</string>
   <string name="dialog_data_limit_button1">Esperar WI-Fi</string>

@@ -364,8 +364,8 @@
   <string name="date_heading">"Fecha: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoy, %1$s</string>
-  <string name="debug_mode_preferencecategory">Set up log output</string>
-  <string name="debug_mode_settings">Debug mode settings</string>
+  <string name="debug_mode_preferencecategory">Configurar la salida del registro</string>
+  <string name="debug_mode_settings">Configuración del modo de depuración</string>
   <string name="default_">PREDETERMINADA</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -482,7 +482,7 @@
   <string name="float_window_info">"Al hacer ajustes en el buzón de correo 139, no utilice el teléfono, puede tener de fallos en ajustes."</string>
   <string name="float_window_title">Ajustando………</string>
   <string name="folder_drafts_name_cn0">Borrador</string>
-  <string name="folder_drafts_name_cn1">草稿箱</string>
+  <string name="folder_drafts_name_cn1">Cuadro de borradores</string>
   <string name="folder_drafts_name_cn2">[Gmail]/Borrador</string>
   <string name="folder_drafts_name_en0">Borradores</string>
   <string name="folder_drafts_name_en1">Borrador</string>
@@ -517,7 +517,7 @@
   <string name="folder_trash_name_en1">Mensajes Borrados</string>
   <string name="folder_trash_name_en2">Mensajes Eliminados</string>
   <string name="folder_trash_name_en3">[Gmail]/Papelera</string>
-  <string name="forever">Always</string>
+  <string name="forever">Siempre</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reenviar</string>
@@ -553,7 +553,7 @@
   <string name="help_and_info">Ayuda</string>
   <string name="help_config">Autoajustes</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
-  <string name="hide_password">Hide password</string>
+  <string name="hide_password">Ocultar contraseña</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
@@ -580,12 +580,12 @@
   <string name="loading_conversations">Cargando…</string>
   <string name="loading_from_remote">Cargando…</string>
   <string name="local_search">Búsqueda local</string>
-  <string name="log_save_path">Log path</string>
+  <string name="log_save_path">Ruta de registro</string>
   <string name="login">Iniciar sesión</string>
   <string name="login139">Iniciar sesión con una tecla CMCC</string>
   <string name="login_failed_ticker">Fallo al iniciar sesión en %s.</string>
   <string name="login_failed_title">No es posible iniciar sesión</string>
-  <string name="login_mail">Login Mail</string>
+  <string name="login_mail">Correo de inicio</string>
   <string name="login_support_tip_text">Admite todas las principales cuentas de correo electrónico</string>
   <string name="long_press_to_select_tip">Toque y mantenga pulsado para seleccionar una conversación; a continuación, pulse para seleccionar más.</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaargo</string>
@@ -753,17 +753,17 @@ Prueba una bandeja de entrada diferente."</string>
   <string name="oauth_login_usr_proxy">Identificación usando proxy</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
-  <string name="one_day">1 day</string>
-  <string name="one_month">1 month</string>
-  <string name="one_week">1 week</string>
+  <string name="one_day">1 día</string>
+  <string name="one_month">1 mes</string>
+  <string name="one_week">1 semana</string>
   <string name="open_calendar_and_contacts_permission">Permitir a Mail el acceso a contactos e información de calendario en los Ajustes</string>
   <string name="open_external_storage_and_calendar_permission">Permitir a Mail el acceso al almacenamiento e información de calendario en los Ajustes</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir a Mail el acceso al almacenamiento, contactos, e información de calendario en los Ajustes</string>
   <string name="open_external_storage_and_contacts_permission">Permitir a Mail el acceso al almacenamiento y contactos en los Ajustes</string>
-  <string name="open_notification_kingagent">Open the notice of the burial point</string>
-  <string name="optimization_suggestion">Optimization suggestion</string>
-  <string name="others_mail">Others</string>
-  <string name="others_mail_des">(Conver More than 60,0000 Mails)</string>
+  <string name="open_notification_kingagent">Abrir el aviso del punto de entierro</string>
+  <string name="optimization_suggestion">Sugerencia de optimización</string>
+  <string name="others_mail">Otros</string>
+  <string name="others_mail_des">(Convers más de 60, 0000 mails)</string>
   <string name="outbox_alert_button_no_resend">No enviar</string>
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Contacte con el administrador del servidor de correo y actualice su certificado.</string>
@@ -785,10 +785,10 @@ Prueba una bandeja de entrada diferente."</string>
   <string name="outbox_alert_select_operation">Elija una acción</string>
   <string name="outbox_alert_title_sent_failed">No se ha podido enviar el correo</string>
   <string name="outbox_no_mails">Vacío</string>
-  <string name="output_all_log">Output all logs</string>
-  <string name="output_db_summary">About to output your database</string>
-  <string name="output_db_title">Output database</string>
-  <string name="output_to_disk">Save logs in a file</string>
+  <string name="output_all_log">Salida de todos los registros</string>
+  <string name="output_db_summary">A punto de emitir su base de datos</string>
+  <string name="output_db_title">Base de datos de salida</string>
+  <string name="output_to_disk">Guardar registros en un archivo</string>
   <string name="over_due">Atrasado</string>
   <string name="overlays_fail_tip">Lo siento mucho de que su buzón no tenga los ajustes correctamente, abra los permisos flotantes de Windows e inténtelo de nuevo</string>
   <string name="overlays_ok">Abrir permisos</string>
@@ -890,9 +890,9 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="push_wps_confirm_message">Pruebe a utilizar WPS Office para abrir este adjunto.</string>
   <string name="push_wps_confirm_title">Probar WPS Office</string>
   <string name="push_wps_no_response_app">No se encontró una aplicación para llevar a cabo esta acción</string>
-  <string name="qq_authorization_help_get">Help me get</string>
-  <string name="qq_authorization_know">Understanding the authorization code</string>
-  <string name="qq_authorization_tips">No longer prompt</string>
+  <string name="qq_authorization_help_get">Ayúdame a conseguir</string>
+  <string name="qq_authorization_know">Descripción del código de autorización</string>
+  <string name="qq_authorization_tips">Ya no se solicita</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Copiado con éxito; vuelva a la página de inicio de sesión y péguelo para completar el campo de contraseña</string>
   <string name="qq_auto_login_failed_dialog_message">Copie el código de autorización, vuelva a la página de inicio de sesión y haga clic en \"Ingresar nombre de usuario y contraseña para iniciar sesión\"; pegue para completar el campo de contraseña para iniciar sesión manualmente</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Copie el código de autorización</string>
@@ -906,7 +906,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="qq_login_webview">Iniciando sesión en cliente web QQ, toque para iniciar sesión usando la contraseña.</string>
   <string name="qq_next_generation_auth_toast">Complete la solicitud de protección de contraseña de segunda generación a través del navegador</string>
   <string name="qq_uthentication_failed">Se ha producido un error en la autenticación, inicia sesión de nuevo.</string>
-  <string name="qq_verify_code">(Need QQ Verify Code)</string>
+  <string name="qq_verify_code">(necesidad QQ verificar el código)</string>
   <string name="qq_webview_loading">Saltando ahora, por favor espere...</string>
   <string name="questionnair_body_invisibility">No se mostrarán los mensajes</string>
   <string name="questionnair_confirm_delete">¿Eliminar cuenta?</string>
@@ -925,7 +925,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="quick_reply_hint_bcc">(En BCC)</string>
   <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="quick_reply_hint_reply_only_from">Respuesta rápida (sólo el remitente)</string>
-  <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
+  <string name="quick_reply_pattern">. * Aprobar. * |. * Aprobar. * |. * Aplicar. * |. * Informar. * |. * Consultar. * |. * Solicitud. *</string>
   <string name="quick_responses_empty_view">Sin respuestas rápidas</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Mensaje original --------</string>
@@ -995,12 +995,12 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">El %s, %s escribió:</string>
   <string name="report_phishing">Notificar phishing</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
+  <string name="report_rendering_improvement">Se ve bien</string>
+  <string name="report_rendering_improvement_desc">Este mensaje luce bien.</string>
+  <string name="report_rendering_problem">Se ve mal</string>
+  <string name="report_rendering_problem_desc">Este mensaje se ve mal.</string>
   <string name="report_spam">Notificar spam</string>
-  <string name="request_copy_db_to_disk">Mail is requesting to copy your database into a file</string>
+  <string name="request_copy_db_to_disk">Mail está solicitando copiar su base de datos en un archivo</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="request_permission_activity">Solicitud de permiso</string>
   <string name="respond_inline">"   Responder entre líneas"</string>
@@ -1029,10 +1029,10 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="security_notification_content_unsupported_title">"Los requisitos de seguridad no se pueden cumplir"</string>
   <string name="security_notification_content_update_title">Necesario actualizar seguridad</string>
   <string name="security_unsupported_ticker_fmt">"La cuenta \"%s\" no puede ser sincronizada debido a requisitos de seguridad."</string>
-  <string name="see_more_content">View more</string>
+  <string name="see_more_content">Ver más</string>
   <string name="select_attachment_type">Elegir adjunto de</string>
   <string name="select_no_file">No se han seleccionado adjuntos</string>
-  <string name="select_path">Select path</string>
+  <string name="select_path">Seleccionar ruta</string>
   <string name="send">Enviar</string>
   <string name="send_failed">El mensaje no fue enviado.</string>
   <string name="send_feed_back">Enviar comentarios</string>
@@ -1075,7 +1075,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
 
 
 %s"</string>
-  <string name="signature_black_shark">Sent from my Blackshark phone</string>
+  <string name="signature_black_shark">Enviado desde mi teléfono blackshark</string>
   <string name="silent_ringtone">Silencio</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
@@ -1120,9 +1120,9 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Pulse para configurar.</string>
   <string name="tap_to_enable_sync">Pulse para activarla.</string>
-  <string name="three_day">3 days</string>
-  <string name="title_activity_about">About</string>
-  <string name="to">To</string>
+  <string name="three_day">3 días</string>
+  <string name="title_activity_about">Sobre</string>
+  <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">No se puede conectar a la red</string>
   <string name="toast_bar_insufficient_memory_space">No se pueden recibir correos electrónicos. No hay suficiente espacio de almacenamiento</string>
@@ -1181,14 +1181,14 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="veiled_alternate_text"></string>
   <string name="veiled_alternate_text_unknown_person"></string>
   <string name="veiled_summary_unknown_person"></string>
-  <string name="verify_code">Verify Code</string>
+  <string name="verify_code">Verificar Código</string>
   <string name="version_string">Version: %s</string>
   <string name="via_domain">"vía %1$s "</string>
   <string name="view_more_conversations">Ver más conversaciones</string>
   <string name="wait_for_manual_sync_body">"\"Esta cuenta no esta configurada para sincronizarse automáticamente.
 Pulse \"<b>Sincronizar ahora</b> para sincronizar el correo una vez, o <b>Cambiar ajustes de sincronización</b> para sincronizar el correo de esta cuenta automáticamente."</string>
   <string name="wait_for_sync_title">Esperando sincronización</string>
-  <string name="wait_help_context">wait</string>
+  <string name="wait_help_context">esperar</string>
   <string name="webview_logout">¿Realmente quieres dejar de ingresar? ¡Venga y vuelva a intentarlo!</string>
   <string name="webview_logout_cancel">"No volveré a probar más"</string>
   <string name="webview_logout_sure">Intentar una vez más</string>
