@@ -20,14 +20,14 @@
     <item>Nota</item>
   </string-array>
   <string-array name="first_guide_contents">
-    <item>Welcome to Notes!</item>
-    <item>Take notes</item>
-    <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
-    <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
-    <item>Share notes</item>
-    <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
-    <item>Create&amp;switch between folders</item>
-    <item>Press the arrow below to create a new folder or switch between existing ones.</item>
+    <item>Bienvenido a las Notas!</item>
+    <item>Tomar notas</item>
+    <item>Puede utilizar texto, imágenes y grabaciones de voz en sus notas. Una rica biblioteca de estilos y fuentes hará que sus garabatos simples se vean impresionantes.</item>
+    <item>Las listas de comprobación y los recordatorios vienen a ayudar cuando usted necesita las herramientas básicas y eficaces para planear su próximo viaje o armar una lista de la tienda de comestibles.</item>
+    <item>Compartir notas</item>
+    <item>Puedes generar imágenes de desplazamiento en notas automáticamente, y compartirlas con tus amigos.</item>
+    <item>Crear&amp;cambiar entre carpetas</item>
+    <item>Pulse la flecha de abajo para crear una nueva carpeta o cambiar entre las existentes.</item>
   </string-array>
   <string-array name="first_guide_images">
     <item>guide_first_00</item>
@@ -52,8 +52,8 @@
     <item>Por fecha de modificación</item>
   </string-array>
   <string-array name="second_guide_contents">
-    <item>Voice notes</item>
-    <item>Create notes using our built-in speech-to-text engine attaching the original recordings of your voice to the notes.</item>
+    <item>Notas de voz</item>
+    <item>Cree notas utilizando nuestro motor incorporado de voz a texto, adjuntando las grabaciones originales de sus voces a las notas.</item>
   </string-array>
   <string-array name="second_guide_images">
     <item>guide_second_00</item>

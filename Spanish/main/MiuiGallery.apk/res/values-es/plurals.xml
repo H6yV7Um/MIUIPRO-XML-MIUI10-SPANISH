@@ -3,20 +3,20 @@
 <!-- Parsed by jbart3h -->
 <resources>
   <plurals name="add_secret_ensure_message">
-    <item quantity="other">Hide these files?</item>
-    <item quantity="one">Hide this file?</item>
+    <item quantity="other">¿ocultar estos archivos?</item>
+    <item quantity="one">Ocultar este archivo?</item>
   </plurals>
   <plurals name="add_to_album_cloud_photo_count_tip">
     <item quantity="other">Añadidas %d fotos en la nube, desactive \"Mostrar solo álbumes locales\" para ver.</item>
     <item quantity="one">Añadida %d foto en la nube, desactive \"Mostrar solo álbumes locales\" para ver.</item>
   </plurals>
   <plurals name="add_to_album_failed_with_reason_and_count">
-    <item quantity="other">"%2$d items can't be added to album. %1$s."</item>
-    <item quantity="one">"%2$d item can't be added to album. %1$s."</item>
+    <item quantity="other">"%2$d los artículos no se pueden agregar al álbum. %1$s."</item>
+    <item quantity="one">"%2$d el artículo no se puede Agregar al álbum. %1$s."</item>
   </plurals>
   <plurals name="add_to_secret_failed_with_reason_and_count">
-    <item quantity="other">"%2$d items can't be added to hidden album. %1$s."</item>
-    <item quantity="one">"%2$d item can't be added to hidden album. %1$s."</item>
+    <item quantity="other">"%2$d los artículos no se pueden agregar al álbum oculto. %1$s."</item>
+    <item quantity="one">"%2$d el artículo no se puede Agregar al álbum oculto. %1$s."</item>
   </plurals>
   <plurals name="age_day">
     <item quantity="other">%d días</item>
@@ -143,8 +143,8 @@
     <item quantity="one">Total %d foto</item>
   </plurals>
   <plurals name="fail_reason_processing_file">
-    <item quantity="other">Processing photos…</item>
-    <item quantity="one">Processing photo…</item>
+    <item quantity="other">Procesando fotos…</item>
+    <item quantity="one">Procesando foto…</item>
   </plurals>
   <plurals name="fast_share_auto_render_failed">
     <item quantity="other">Se han omitido %1$d fotos que no se han podido mostrar.</item>
@@ -231,28 +231,28 @@
     <item quantity="one">Total %d foto</item>
   </plurals>
   <plurals name="remove_from_secret_failed_with_reason_and_count">
-    <item quantity="other">"%2$d items can't be removed from hidden album. %1$s."</item>
-    <item quantity="one">"%2$d item can't be removed from hidden album. %1$s."</item>
+    <item quantity="other">"%2$d no se pueden quitar el artículo del álbum oculto. %1$s."</item>
+    <item quantity="one">"%2$d no se puede quitar el artículo del álbum oculto. %1$s."</item>
   </plurals>
   <plurals name="search_feedback_done_mark_and_contribute_false_negative">
-    <item quantity="other">Added %1$d photos to \"%2$s\" and added to the database.</item>
-    <item quantity="one">Added %1$d photo to \"%2$s\" and added to the database.</item>
+    <item quantity="other">Añadido %1$d fotos a \"%2$s\"y se agregó a la base de datos.</item>
+    <item quantity="one">Añadido %1$d foto a \"%2$s\"y se agregó a la base de datos.</item>
   </plurals>
   <plurals name="search_feedback_done_mark_and_contribute_false_positive">
-    <item quantity="other">Removed %1$d photos from \"%2$s\" and added to the database.</item>
-    <item quantity="one">Removed %1$d photo from \"%2$s\" and added to the database.</item>
+    <item quantity="other">Quitado %1$d Fotos de \"%2$s\"y se agregó a la base de datos.</item>
+    <item quantity="one">Quitado %1$d Foto de \"%2$s\"y se agregó a la base de datos.</item>
   </plurals>
   <plurals name="search_feedback_done_mark_false_negative">
-    <item quantity="other">Added %1$d photos to \"%2$s\".</item>
-    <item quantity="one">Added %1$d photo to \"%2$s\".</item>
+    <item quantity="other">Añadido %1$d fotos a \"%2$s\".</item>
+    <item quantity="one">Añadido %1$d foto a \"%2$s\".</item>
   </plurals>
   <plurals name="search_feedback_done_mark_false_positive">
-    <item quantity="other">Removed %1$d photos from \"%2$s\".</item>
-    <item quantity="one">Removed %1$d photo from \"%2$s\".</item>
+    <item quantity="other">Quitado %1$d Fotos de \"%2$s\".</item>
+    <item quantity="one">Quitado %1$d Foto de \"%2$s\".</item>
   </plurals>
   <plurals name="send_processing_files_error">
-    <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
-    <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
+    <item quantity="other">"No podía compartir. Sigue procesando %d Fotos…"</item>
+    <item quantity="one">"No podía compartir. Sigue procesando %d Foto…"</item>
   </plurals>
   <plurals name="slim_complete_photo_count">
     <item quantity="other">%d fotos optimizadas</item>

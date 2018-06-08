@@ -83,12 +83,12 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
     <item quantity="one">%d mensaje</item>
   </plurals>
   <plurals name="gb_ad_people_play">
-    <item quantity="other">%1$d people are playing</item>
-    <item quantity="one">%1$d person is playing</item>
+    <item quantity="other">%1$d personas están jugando</item>
+    <item quantity="one">%1$d persona está jugando</item>
   </plurals>
   <plurals name="gb_ad_ten_thousand_people_play">
-    <item quantity="other">%1$d people are playing</item>
-    <item quantity="one">%1$d person is playing</item>
+    <item quantity="other">%1$d personas están jugando</item>
+    <item quantity="one">%1$d persona está jugando</item>
   </plurals>
   <plurals name="gb_signed_days_sum">
     <item quantity="other">Comprobado %d días seguidos</item>
@@ -163,8 +163,8 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
     <item quantity="one">%d usuario lo marcó como</item>
   </plurals>
   <plurals name="net_booster_expire_notification_tip">
-    <item quantity="other">%d days remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</item>
-    <item quantity="one">%d day remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</item>
+    <item quantity="other">%d días restantes antes de que finalice la sesión de aceleración de red. Renovar la sesión para evitar problemas de velocidad de red.</item>
+    <item quantity="one">%d día restante antes de que finalice la sesión de aceleración de red. Renovar la sesión para evitar problemas de velocidad de red.</item>
   </plurals>
   <plurals name="network_restrict_count">
     <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicaciones"</item>
@@ -303,8 +303,8 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
     <item quantity="one">%1$d elemento</item>
   </plurals>
   <plurals name="title_virus_clean">
-    <item quantity="other">Cleared %d viruses</item>
-    <item quantity="one">Borrados %d virus</item>
+    <item quantity="other">Borrados %d virus</item>
+    <item quantity="one">Borrado %d virus</item>
   </plurals>
   <plurals name="traffic_setting_app_count">
     <item quantity="other">%d aplicaciones</item>

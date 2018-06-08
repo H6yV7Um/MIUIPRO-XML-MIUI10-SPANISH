@@ -38,20 +38,20 @@
     <item>Desagrupado</item>
   </string-array>
   <string-array name="relation_with_me_value">
-    <item>myself</item>
-    <item>child</item>
-    <item>family</item>
-    <item>collegue</item>
-    <item>classmate</item>
-    <item>friend</item>
-    <item>unknown</item>
+    <item>mismo</item>
+    <item>niño</item>
+    <item>familia</item>
+    <item>colega</item>
+    <item>compañero</item>
+    <item>amigo</item>
+    <item>desconocido</item>
   </string-array>
   <string-array name="search_voice_assistant_suggestion">
-    <item>帮我找出身份证的照片</item>
-    <item>我想看在三亚拍的照片</item>
-    <item>找出有小米文字的图片</item>
-    <item>搜索去年春节的照片</item>
-    <item>帮我搜我和妈妈上个月在海边的合影</item>
+    <item>Ayúdame a encontrar fotos de mi tarjeta de identificación</item>
+    <item>Quiero ver fotos tomadas en Sanya</item>
+    <item>Descubre la imagen con texto de mi</item>
+    <item>Buscar fotos del Festival de Primavera del año pasado</item>
+    <item>Ayudame a encontrar la foto de mi madre y yo en la playa el mes pasado</item>
   </string-array>
   <string-array name="sharer_relation_addressive">
     <item>Padre</item>

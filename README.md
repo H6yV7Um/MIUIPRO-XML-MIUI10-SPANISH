@@ -114,45 +114,46 @@ Updater.apk
 
 XiaomiAuthenticator.apk
 
-# TODO / PENDIENTE
 Contacts.apk
+
+Stk.apk
+
+ThemeManager.apk
+
+Weather.apk
+
+TouchAssistant.apk
+
+XiaomiAccount.apk
+
+Telecom.apk
 
 MIUIGallery.apk
 
-MIUIHome.apk
+SoundRecorder.apk
+
+TelephonyProvider.apk
+
+SecurityCenter.apk
 
 MiuiScreenRecorder.apk
 
+MIUIHome.apk
+
 miuisystem.apk
 
-Music.apk
-
 Notes.apk
+
+# TODO / PENDIENTE
+
+Music.apk
 
 PaymentService.apk
 
 PersonalAssistant.apk
 
-SecurityCenter.apk
-
 Settings.apk
 
-SoundRecorder.apk
-
-Stk.apk
-
-Telecom.apk
-
-TelephonyProvider.apk
-
 Teleservice.apk
-
-ThemeManager.apk
-
-TouchAssistant.apk
-
-Weather.apk
-
-XiaomiAccount.apk
 
 XMRemoteController.apk

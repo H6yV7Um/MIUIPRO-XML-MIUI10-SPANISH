@@ -221,9 +221,9 @@
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Llamada grabada</string>
   <string name="contact_detail_calllog_empty">No hay historial</string>
-  <string name="contact_detail_entry_pay">Send money</string>
-  <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
-  <string name="contact_detail_entry_pay_request">Request money</string>
+  <string name="contact_detail_entry_pay">Enviar dinero</string>
+  <string name="contact_detail_entry_pay_dialog_title">Seleccionar número de teléfono</string>
+  <string name="contact_detail_entry_pay_request">Solicitar dinero</string>
   <string name="contact_detail_menu_delete_miprofile">Borrar tarjeta</string>
   <string name="contact_detail_miprofile_accept">Intercambiar tarjetas de contacto</string>
   <string name="contact_detail_miprofile_accept_fail_toast">No se pudieron intercambiar las tarjetas de contacto</string>
@@ -518,8 +518,8 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="group_delete_success_toast">Grupo eliminado</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Nombre del grupo</string>
-  <string name="group_member_remove_fail_toast">Not removed from group</string>
-  <string name="group_member_remove_success_toast">Removed from group</string>
+  <string name="group_member_remove_fail_toast">No eliminado del grupo</string>
+  <string name="group_member_remove_success_toast">Eliminado del grupo</string>
   <string name="group_name">Mis grupos</string>
   <string name="group_name_hint">Nombre del grupo</string>
   <string name="group_read_only">No se puede modificar en este dispositivo.</string>
@@ -919,7 +919,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="no_contacts_dialog_title">No se puede encontrar contactos</string>
   <string name="no_contacts_selected">No hay contactos seleccionados.</string>
   <string name="no_sdcard_message">Almacenamiento no fue encontrado.</string>
-  <string name="no_setting_menu">No menu options available</string>
+  <string name="no_setting_menu">No hay opciones de menú disponibles</string>
   <string name="non_phone_add_to_contacts">Agregar a contactos</string>
   <string name="non_phone_caption">Número de teléfono</string>
   <string name="non_phone_close">Cerrar</string>
@@ -1012,9 +1012,9 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pref_key_photo_word_title">Asignar fotos al contacto</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir el índice para resolver problemas de búsqueda</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir los datos del índice</string>
-  <string name="pref_key_sdn_manage">View SDN</string>
-  <string name="pref_key_sdn_manage1">View SDN card 1</string>
-  <string name="pref_key_sdn_manage2">View SDN card 2</string>
+  <string name="pref_key_sdn_manage">Ver Sdn</string>
+  <string name="pref_key_sdn_manage1">Ver tarjeta de Sdn 1</string>
+  <string name="pref_key_sdn_manage2">Ver tarjeta de Sdn 2</string>
   <string name="pref_key_sim_manage">Configurar la tarjeta SIM</string>
   <string name="pref_key_sim_manage1">Configurar SIM 1</string>
   <string name="pref_key_sim_manage2">Configurar SIM 2</string>
@@ -1137,7 +1137,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">El almacenamiento no pudo ser escaneado</string>
   <string name="sdnContacts_empty">No SDN</string>
-  <string name="sdnContacts_emptyLoading">Loading SDN…</string>
+  <string name="sdnContacts_emptyLoading">Cargando Sdn…</string>
   <string name="searchHint">Buscar contactos</string>
   <string name="search_batch_delete">Organizar;Contactos</string>
   <string name="search_contacts_display">Contactos;Monitor</string>
@@ -1157,7 +1157,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="search_key_rebuild_t9_index_title">Organizar;Contactos;t9</string>
   <string name="search_key_sim_manage">Organizar;Contactos</string>
   <string name="search_preference_contacts_filter">Contactos;Mostrar</string>
-  <string name="search_quick_dial_setting">Phone</string>
+  <string name="search_quick_dial_setting">Teléfono</string>
   <string name="search_remove_duplicate">Organizar;Contactos</string>
   <string name="search_results_searching">Buscando…</string>
   <string name="search_settings_description">Nombre de los contactos guardados</string>
@@ -1260,7 +1260,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">Cargando…</string>
   <string name="solar_calendar">Calendario</string>
-  <string name="special_code_security_exception">"Couldn't complete action. This isn't your default dial pad."</string>
+  <string name="special_code_security_exception">"No podía completar la acción. Esta no es la tecla de marcación predeterminada."</string>
   <string name="splitConfirmation">Este contacto se separará en múltiples contactos.</string>
   <string name="splitConfirmation_title">¿Separar contacto?</string>
   <string name="starredList">Favoritos</string>
@@ -1365,7 +1365,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
   <string name="yellowPageNavigationLabel">Páginas amarillas</string>
   <string name="yellowpage_fc_toast">No se puede usar esta característica porque las páginas amarillas fallaron.</string>
-  <string name="yellowpage_mi_family">小米之家</string>
+  <string name="yellowpage_mi_family">Casa de mi</string>
   <string name="yellowpage_navigation_ad_hint">Anuncio</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"No se pudo verificar el saldo y los datos móviles. Vuelve a intentarlo más tarde."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">El saldo y los datos móviles han sido verificados</string>

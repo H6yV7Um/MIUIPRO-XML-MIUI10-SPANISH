@@ -15,11 +15,11 @@
     <item quantity="one">%1$s nota</item>
   </plurals>
   <plurals name="record_last_ten_seconds_reminder">
-    <item quantity="other">%d seconds left</item>
-    <item quantity="one">%d second left</item>
+    <item quantity="other">%d segundos a la izquierda</item>
+    <item quantity="one">%d segunda a la izquierda</item>
   </plurals>
   <plurals name="word_count">
-    <item quantity="other">%s Characters</item>
-    <item quantity="one">%s Character</item>
+    <item quantity="other">%s Caracteres</item>
+    <item quantity="one">%s Carácter</item>
   </plurals>
 </resources>
