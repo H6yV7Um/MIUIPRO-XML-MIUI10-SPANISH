@@ -13,3 +13,80 @@ Special thanks to the active translators volunteers:
 # If you want to help in translate create a issue in this repository for further details.
 
 Si quieres ayudar a traducir crea una issue en el repositorio para más información.
+
+# ACTUAL BASE / BASE ACTUAL
+MIUI10 8.6.6
+
+# FINISHED / FINALIZADO
+AuthManager.apk
+Backup.apk
+Bluetooth.apk
+Browser.apk
+BugReport.apk
+Calculator.apk
+Calendar.apk
+CalendarProvider.apk
+CertInstaller.apk
+Cit.apk
+CleanMaster.apk
+CloudBackup.apk
+CloudService.apk
+ContactsProvider.apk
+DeskClock.apk
+DownloadProvider.apk
+DownloadProviderUi.apk
+Email.apk
+ExternalStorageProvider.apk
+FileExplorer.apk
+FindDevice.apk
+framework-ext-res.apk
+framework-res.apk
+GuardProvider.apk
+InCallUI.apk
+ManagedProvisioning.apk
+MiDrive.apk
+MiDrop.apk
+miui.apk
+MiuiBluetooth.apk
+MiuiCamera.apk
+MiuiCompass.apk
+MiuiScanner.apk
+MiuiSystemUI.apk
+MiuiVideoGlobal.apk
+MMS.apk
+MusicFX.apk
+NfcNci.apk
+PackageInstaller.apk
+PowerKeeper.apk
+PrintSpooler.apk
+Provision.apk
+QuickSearchBox.apk
+SecurityAdd.apk
+SecurityCoreAdd.apk
+Shell.apk
+Updater.apk
+XiaomiAuthenticator.apk
+
+
+# TODO / PENDIENTE
+Contacts.apk
+MIUIGallery.apk
+MIUIHome.apk
+MiuiScreenRecorder.apk
+miuisystem.apk
+Music.apk
+Notes.apk
+PaymentService.apk
+PersonalAssistant.apk
+SecurityCenter.apk
+Settings.apk
+SoundRecorder.apk
+Stk.apk
+Telecom.apk
+TelephonyProvider.apk
+Teleservice.apk
+ThemeManager.apk
+TouchAssistant.apk
+Weather.apk
+XiaomiAccount.apk
+XMRemoteController.apk
