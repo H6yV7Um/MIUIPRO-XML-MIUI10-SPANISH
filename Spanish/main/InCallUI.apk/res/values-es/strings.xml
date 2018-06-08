@@ -90,15 +90,15 @@
   <string name="close_camera_requesting">Cerrando cámara...</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
-  <string name="conference_call_recorder_title">Conference call</string>
+  <string name="conference_call_recorder_title">Conferencia Telefónica</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$s's conferencia"</string>
   <string name="conference_caller_name_me">Yo</string>
   <string name="conference_callers_exceeded">"No se puede agregar más personas"</string>
   <string name="contacts_icon_label">Contactos</string>
-  <string name="crbt_second_hold_prompt">%s is on hold…</string>
-  <string name="crbt_second_hold_prompt_conference">Conference call is on hold…</string>
-  <string name="crbt_second_hold_prompt_no_name">Previous call is on hold…</string>
+  <string name="crbt_second_hold_prompt">%s está en espera…</string>
+  <string name="crbt_second_hold_prompt_conference">La llamada de conferencia está en espera…</string>
+  <string name="crbt_second_hold_prompt_no_name">La llamada anterior está en espera…</string>
   <string name="default_area_code_setting">Código de área por defecto</string>
   <string name="description_image_button_answer">Responder</string>
   <string name="description_image_button_dialpad">Marcador</string>
@@ -237,7 +237,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Obteniendo información del contacto…</string>
   <string name="private_num">Número privado</string>
-  <string name="prompt_no_volte_when_failed">"Can't make calls. Make sure your device is connected to a 4G network with VoLTE support.​"</string>
+  <string name="prompt_no_volte_when_failed">"No puedo hacer llamadas. Asegúrese de que su dispositivo está conectado a una red 4G con soporte de VoLTE"</string>
   <string name="purchase_now">Recargar</string>
   <string name="remind_unlock_message">Tu dispositivo está bloqueado. \"%s\" estará disponible después de desbloquear el dispostivo. ¿Desbloquear ahora?</string>
   <string name="respond_via_sms_custom_message">Escribe tu propio…</string>

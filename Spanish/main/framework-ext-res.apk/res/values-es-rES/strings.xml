@@ -22,7 +22,7 @@
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Denegar</string>
   <string name="auto_start_warning_title">¿Permitir que %s se inicie automáticamente?</string>
-  <string name="autofill">Autofill</string>
+  <string name="autofill">Autocompletar</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_delete">Desinstalar</string>
   <string name="button_text_delete_timer">Desinstalar (%d)</string>
@@ -82,7 +82,7 @@
   <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
   <string name="memory_clear_result">%1$sB borrados</string>
   <string name="miui">miui</string>
-  <string name="miui_forbid_poweroff_when_device_locked">"Can't power off, device is locked."</string>
+  <string name="miui_forbid_poweroff_when_device_locked">"No se puede apagar, el dispositivo está bloqueado."</string>
   <string name="miui_screen_ratio_hint">Problemas de proporción de pantalla</string>
   <string name="miui_screen_ratio_hint_dont_show_again">No mostrar de nuevo</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Ir a Ajustes</string>
@@ -189,7 +189,7 @@
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconocido</string>
   <string name="user_switching_dialog_text">Cambiando…</string>
-  <string name="wifi_assistant_wifi_no_internet">This WLAN network has no access to the internet</string>
-  <string name="wifi_assistant_wifi_no_internet_detail">Tap to view details</string>
+  <string name="wifi_assistant_wifi_no_internet">Esta red WLAN no tiene acceso a Internet</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver los detalles</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicación</string>
 </resources>

@@ -1619,7 +1619,6 @@
   <string name="user_remove_user_title">Eliminar usuario?</string>
   <string name="v7_preference_off">Apagado</string>
   <string name="v7_preference_on">Encendido</string>
-  <string name="velocity_tracker_impl">platform</string>
   <string name="verify_apps_over_usb_summary">Compruebe que las aplicaciones instaladas a través de ADB / ADT detectan comportamientos dañinos.</string>
   <string name="verify_apps_over_usb_title">Verificar aplicaciones a través de USB</string>
   <string name="voice_assist_label">Asistente de voz abierta</string>

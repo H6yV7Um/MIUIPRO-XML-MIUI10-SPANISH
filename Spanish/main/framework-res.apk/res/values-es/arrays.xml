@@ -3,8 +3,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
   <string-array name="app_ops_labels">
-    <item>Trying to enable WLAN</item>
-    <item>Trying to enable BT</item>
+    <item>Intentando habilitar WLAN</item>
+    <item>Intentando activar BT</item>
   </string-array>
   <string-array name="config_appsToPin">
     <item>com.tencent.mm</item>
@@ -127,7 +127,7 @@
     <item>Jabber</item>
   </string-array>
   <string-array name="network_switch_type_name">
-    <item>mobile data</item>
+    <item>datos móviles</item>
     <item>WLAN</item>
     <item>Bluetooth</item>
     <item>Ethernet</item>

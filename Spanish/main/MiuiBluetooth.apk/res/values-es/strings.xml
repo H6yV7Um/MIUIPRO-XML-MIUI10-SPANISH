@@ -12,7 +12,7 @@
   <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_connected">Vincular</string>
   <string name="bluetooth_connecting">Vinculando…</string>
-  <string name="bluetooth_device_context_unpair">Unpair</string>
+  <string name="bluetooth_device_context_unpair">Desincronizar</string>
   <string name="bluetooth_disconnected">Desvincular</string>
   <string name="bluetooth_disconnecting">Desvinculando…</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos vinculados</string>

@@ -3,8 +3,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
   <string-array name="app_ops_labels">
-    <item>Trying to enable WLAN</item>
-    <item>Trying to enable BT</item>
+    <item>Intentando habilitar WLAN</item>
+    <item>Intentando activar BT</item>
   </string-array>
   <string-array name="config_appsToPin">
     <item>com.tencent.mm</item>
@@ -76,45 +76,45 @@
     <item>310004,310010,310012,310013,310590,310890,310910,311110,311270,311271,311272,311273,311274,311275,311276,311277,311278,311279,311280,311281,311282,311283,311284,311285,311286,311287,311288,311289,311390,311480,311481,311482,311483,311484,311485,311486,311487,311488,311489;^//VZWVVM.*</item>
   </string-array>
   <string-array name="emailAddressTypes">
-    <item>Home</item>
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Trabajo</item>
+    <item>Otros</item>
+    <item>Personalizado</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Try again</item>
+    <item>Vuelve a intentarlo</item>
     <item></item>
     <item></item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>
     <item></item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item>"Too fast! Couldn't recognize fingerprint"</item>
-    <item>Move your finger a bit and try again</item>
-    <item>Lift your finger and put it back on the scanner again</item>
-    <item>Keep your finger on the scanner a bit longer</item>
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>
+    <item>La cubierta del escáner de huellas digitales completamente y aplique presión</item>
     <item></item>
     <item></item>
     <item></item>
+    <item></item>
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>
+    <item>Cubra completamente el escáner de huellas dactilares y aplique presión</item>
+    <item>"¡ demasiado rápido! No podía reconocer huella dactilar"</item>
+    <item>Mueve un poco el dedo y vuelve a intentarlo</item>
+    <item>Levante el dedo y vuelva a ponerlo en el escáner</item>
+    <item>Mantenga su dedo en el escáner un poco más</item>
     <item></item>
     <item></item>
     <item></item>
     <item></item>
     <item></item>
-    <item>Move your finger slightly</item>
-    <item>This fingerprint has been added, use a different finger</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Mueve el dedo ligeramente</item>
+    <item>Esta huella dactilar se ha añadido, utilizar un dedo diferente</item>
   </string-array>
   <string-array name="imAddressTypes">
-    <item>Home</item>
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Trabajo</item>
+    <item>Otros</item>
+    <item>Personalizado</item>
   </string-array>
   <string-array name="imProtocols">
     <item>AIM</item>
@@ -127,7 +127,7 @@
     <item>Jabber</item>
   </string-array>
   <string-array name="network_switch_type_name">
-    <item>mobile data</item>
+    <item>datos móviles</item>
     <item>WLAN</item>
     <item>Bluetooth</item>
     <item>Ethernet</item>
@@ -137,25 +137,25 @@
     <item>20404;suffix;BAE0000000000000</item>
   </string-array>
   <string-array name="organizationTypes">
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Trabajo</item>
+    <item>Otros</item>
+    <item>Personalizado</item>
   </string-array>
   <string-array name="phoneTypes">
-    <item>Home</item>
-    <item>Mobile</item>
-    <item>Work</item>
-    <item>Work Fax</item>
-    <item>Home Fax</item>
-    <item>Pager</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Móvil</item>
+    <item>Trabajo</item>
+    <item>Fax de trabajo</item>
+    <item>Fax de casa</item>
+    <item>Buscapersonas</item>
+    <item>Otros</item>
+    <item>Personalizado</item>
   </string-array>
   <string-array name="postalAddressTypes">
-    <item>Home</item>
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Trabajo</item>
+    <item>Otros</item>
+    <item>Personalizado</item>
   </string-array>
   <string-array name="resolver_target_actions_pin">
     <item>@string/pin_target</item>
@@ -645,13 +645,13 @@
     <item>zu-ZA</item>
   </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>To make calls and send messages over WLAN, first ask your carrier to set up this service. Then turn on WLAN calling again from Settings.</item>
+    <item>Para hacer llamadas y enviar mensajes a través de WLAN, primero pídale a su operador que configure este servicio. A continuación, activar la llamada WLAN de nuevo desde la configuración.</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Register with your carrier</item>
+    <item>Registrarse con su compañía</item>
   </string-array>
   <string-array name="wfcSpnFormats">
     <item>%s</item>
-    <item>%s WLAN Calling</item>
+    <item>%s Llamadas WLAN</item>
   </string-array>
 </resources>

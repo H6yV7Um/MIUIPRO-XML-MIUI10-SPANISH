@@ -11,16 +11,16 @@
     <item quantity="one">hace %1$d día</item>
   </plurals>
   <plurals name="delete_files">
-    <item quantity="other">Delete %1$d files?</item>
-    <item quantity="one">Delete this file?</item>
+    <item quantity="other">Eliminar %1$d ¿Archivos?</item>
+    <item quantity="one">Eliminar este archivo?</item>
   </plurals>
   <plurals name="delete_files_confirm">
     <item quantity="other">Borrar %1$d ficheros</item>
     <item quantity="one">Borrar %1$d fichero</item>
   </plurals>
   <plurals name="delete_folders">
-    <item quantity="other">Delete %1$d folders?</item>
-    <item quantity="one">Delete this folder?</item>
+    <item quantity="other">Eliminar %1$d carpetas?</item>
+    <item quantity="one">Eliminar esta carpeta?</item>
   </plurals>
   <plurals name="delete_folders_confirm">
     <item quantity="other">" y %1$d carpetas?"</item>
