@@ -11,8 +11,8 @@
     <item quantity="one">Total %d canción</item>
   </plurals>
   <plurals name="Nassociate_songs">
-    <item quantity="other">Searching for album covers and lyrics (%1$d/%2$d)</item>
-    <item quantity="one">Searching for album covers and lyrics (%1$d/%2$d)</item>
+    <item quantity="other">Búsqueda de carátulas y Letras de canciones (%1$d/%2$d)</item>
+    <item quantity="one">Búsqueda de carátulas y Letras de canciones (%1$d/%2$d)</item>
   </plurals>
   <plurals name="Nbackup_songs">
     <item quantity="other">Copia de seguridad de las canciones, %1$d canciones restantes (%2$.1fMB)</item>
@@ -23,8 +23,8 @@
     <item quantity="one">El reproductor parará en %d minuto</item>
   </plurals>
   <plurals name="Nrecognize_switch_off_alert_message">
-    <item quantity="other">You chose not to find album covers and lyrics for local songs automatically. Delete info for %d songs?</item>
-    <item quantity="one">You chose not to find album covers and lyrics for local songs automatically. Delete info for %d song?</item>
+    <item quantity="other">Usted eligió no encontrar carátulas de álbumes y letras para canciones locales automáticamente. Eliminar información para %d ¿Canciones?</item>
+    <item quantity="one">Usted eligió no encontrar carátulas de álbumes y letras para canciones locales automáticamente. Eliminar información para %d ¿Canción?</item>
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">"Creado en %1$s total %2$d canciones"</item>
@@ -51,7 +51,7 @@
     <item quantity="one">%d canción similar</item>
   </plurals>
   <plurals name="Nunbackup_audios">
-    <item quantity="other">%1$d canciones no se han copiado (%2$.1fMB)</item>
+    <item quantity="other">"%1$d canciones no se han copiado (%2$.1fMB)"</item>
     <item quantity="one">"%1$d canción no se ha copiado (%2$.1fMB)"</item>
   </plurals>
   <plurals name="Nupload_song_button">
@@ -117,7 +117,7 @@ Nota: El archivo también se eliminará de este dispositivo."</item>
     <item quantity="one">Canción marcada como favorita.</item>
   </plurals>
   <plurals name="songs_count">
-    <item quantity="other">%d songs</item>
-    <item quantity="one">%d song</item>
+    <item quantity="other">%d canciones</item>
+    <item quantity="one">%d canción</item>
   </plurals>
 </resources>

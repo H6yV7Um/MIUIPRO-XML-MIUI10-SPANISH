@@ -133,32 +133,32 @@
     <item>¿Puedo usar Mi 3, Mi 2 y Redmi como un control remoto de infrarrojos?</item>
   </string-array>
   <string-array name="user_notification_tab">
-    <item>\@与我相关</item>
-    <item>系统通知</item>
+    <item>\@relacionado conmigo</item>
+    <item>Notificación del sistema</item>
   </string-array>
   <string-array name="voice_ac_help">
-    <item>Turn on Haier AC in the living room</item>
-    <item>Set the temperature to 25 degrees</item>
-    <item>Set wind direction to \"Up\"</item>
+    <item>Encienda el aire acondicionado en la sala de estar</item>
+    <item>Ajuste la temperatura a 25 grados</item>
+    <item>Fije la dirección del viento a \"arriba\"</item>
   </string-array>
   <string-array name="voice_fan_help">
-    <item>Turn on Gree AC</item>
-    <item>Switch to swinging mode</item>
-    <item>Make AC blow harder</item>
+    <item>Activar AC</item>
+    <item>Cambiar al modo de balanceo</item>
+    <item>Hacer CA golpe más duro</item>
   </string-array>
   <string-array name="voice_stb_help">
-    <item>Turn on set-top box</item>
-    <item>I want to watch Hunan TV</item>
-    <item>Go back to channel 15</item>
+    <item>Activar el cuadro de configuración superior</item>
+    <item>Quiero ver Hunan TV</item>
+    <item>Volver al canal 15</item>
   </string-array>
   <string-array name="voice_tips">
-    <item>Turn on AC</item>
-    <item>I want to watch Shenzhen TV</item>
-    <item>Go back to channel 12</item>
+    <item>Activar AC</item>
+    <item>Quiero ver Shenzhen TV</item>
+    <item>Volver al canal 12</item>
   </string-array>
   <string-array name="voice_tv_help">
-    <item>Turn on TV in the bedroom</item>
-    <item>Turn off the TV</item>
-    <item>Turn up the volume on TV</item>
+    <item>Encienda la TV en el dormitorio</item>
+    <item>Apague el televisor</item>
+    <item>Suba el volumen de la TV</item>
   </string-array>
 </resources>
