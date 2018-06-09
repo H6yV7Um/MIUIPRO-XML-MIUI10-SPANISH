@@ -24,7 +24,7 @@
   <string name="connecting_peripheral">Conectando a %1$s</string>
   <string name="could_not_use_app">No se puede usar %1$s.</string>
   <string name="default_pay_app_removed">Tu servicio preferido de pago fue eliminado. ¿Deseas seleccionar otro?</string>
-  <string name="device">device</string>
+  <string name="device">dispositivo</string>
   <string name="disconnected_peripheral">Desconectado %1$s</string>
   <string name="disconnecting_peripheral">Desconectandose %1$s</string>
   <string name="failed_to_enable_bt">No se pudo activar el Bluetooth</string>

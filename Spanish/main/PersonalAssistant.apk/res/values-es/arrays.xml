@@ -211,24 +211,24 @@
     <item>263,ZW</item>
   </string-array>
   <string-array name="aqi_title">
-    <item>优</item>
-    <item>良</item>
-    <item>轻度</item>
-    <item>中度</item>
-    <item>重度</item>
-    <item>严重</item>
+    <item>Excelente</item>
+    <item>Liang</item>
+    <item>Leve</item>
+    <item>Moderado</item>
+    <item>Grave</item>
+    <item>Serio</item>
   </string-array>
   <string-array name="aqi_title_append">
     <item>%1$s</item>
     <item>%1$s</item>
-    <item>%1$s污染</item>
-    <item>%1$s污染</item>
-    <item>%1$s污染</item>
-    <item>%1$s污染</item>
+    <item>%1$sContaminación</item>
+    <item>%1$sContaminación</item>
+    <item>%1$sContaminación</item>
+    <item>%1$sContaminación</item>
   </string-array>
   <string-array name="aqi_title_prefix">
-    <item>空气%1$s</item>
-    <item>空气%1$s</item>
+    <item>Aire%1$s</item>
+    <item>Aire%1$s</item>
     <item>%1$s</item>
     <item>%1$s</item>
     <item>%1$s</item>
@@ -249,23 +249,23 @@
     <item>com.taobao.taobao/com.taobao.cainiao.logistic.LogisticDetailActivity</item>
   </string-array>
   <string-array name="detail_font_size">
-    <item>Small</item>
+    <item>Pequeño</item>
     <item>Regular</item>
-    <item>Large</item>
+    <item>Grande</item>
   </string-array>
   <string-array name="express_status_all">
-    <item>On the way</item>
-    <item>Dispatching</item>
-    <item>Sent</item>
-    <item>Unknown</item>
-    <item>Recevied</item>
-    <item>Rejected</item>
-    <item>Returned</item>
-    <item>Unknown</item>
+    <item>En el camino</item>
+    <item>Despacho</item>
+    <item>Enviado</item>
+    <item>Desconocido</item>
+    <item>Recibido</item>
+    <item>Rechazado</item>
+    <item>Volvió</item>
+    <item>Desconocido</item>
   </string-array>
   <string-array name="express_status_detail">
-    <item>On the way</item>
-    <item>Dispatching</item>
+    <item>En el camino</item>
+    <item>Enviar</item>
   </string-array>
   <string-array name="express_status_detail_flag">
     <item>0</item>
@@ -310,17 +310,17 @@
     <item>拥堵</item>
     <item>公里拥堵</item>
     <item>公里缓行</item>
-    <item>道路施工</item>
+    <item>Construcción de carreteras</item>
   </string-array>
   <string-array name="map_title">
-    <item>错峰出行</item>
-    <item>有严重拥堵</item>
-    <item>路况畅通</item>
-    <item>无明显拥堵</item>
-    <item>有异常交通</item>
+    <item>Viaje máximo</item>
+    <item>Congestión severa</item>
+    <item>Condiciones de carretera suaves</item>
+    <item>Sin congestiones obvias</item>
+    <item>Tráfico inusual</item>
   </string-array>
   <string-array name="sms_exclude_category">
-    <item>还款</item>
+    <item>Reembolso</item>
   </string-array>
   <string-array name="stock_color_schema">
     <item>Rojo - arriba, verde - abajo</item>

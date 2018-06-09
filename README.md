@@ -146,14 +146,17 @@ Notes.apk
 
 Music.apk
 
-# TODO / PENDIENTE
-
 PaymentService.apk
+
+XMRemoteController.apk
+
+Teleservice.apk
+
+
+# TODO / PENDIENTE
 
 PersonalAssistant.apk
 
 Settings.apk
 
-Teleservice.apk
 
-XMRemoteController.apk

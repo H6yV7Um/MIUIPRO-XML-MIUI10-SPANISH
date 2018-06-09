@@ -11,12 +11,12 @@
     <item quantity="other">Hace %1$dd</item>
   </plurals>
   <plurals name="express_history_dialog_delete_message">
-    <item quantity="other">Delete %s items from express?</item>
-    <item quantity="one">Delete %s item from express?</item>
+    <item quantity="other">Eliminar %s ¿artículos de Express?</item>
+    <item quantity="one">Eliminar %s ¿artículo de expreso?</item>
   </plurals>
   <plurals name="express_history_menu_select_num">
-    <item quantity="other">Selected %s items</item>
-    <item quantity="one">Selected %s item</item>
+    <item quantity="other">Seleccionado %s Artículos</item>
+    <item quantity="one">Seleccionado %s Artículo</item>
   </plurals>
   <plurals name="hours_ago">
     <item quantity="one">Hace %1$dhr</item>
@@ -47,8 +47,8 @@
     <item quantity="one">Seleccionado %s elemento</item>
   </plurals>
   <plurals name="shopping_delete_num">
-    <item quantity="other">Delete %s selected items?</item>
-    <item quantity="one">Delete %s selected item?</item>
+    <item quantity="other">Eliminar %s ¿elementos seleccionados?</item>
+    <item quantity="one">Eliminar %s ¿elemento seleccionado?</item>
   </plurals>
   <plurals name="sms_day_suffix">
     <item quantity="other">En %d días</item>
@@ -60,7 +60,7 @@
   </plurals>
   <plurals name="sms_minute_suffix">
     <item quantity="other">En %d minutos</item>
-    <item quantity="one">En %d minuo</item>
+    <item quantity="one">En %d minuto</item>
   </plurals>
   <plurals name="sms_title_hours">
     <item quantity="other">%d horas</item>
