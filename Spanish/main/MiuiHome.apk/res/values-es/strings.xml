@@ -240,9 +240,7 @@
   <string name="normal_wallpaper">Fondo de pantalla</string>
   <string name="notification_installed">Instalado con éxito</string>
   <string name="notification_open_button">Abrir</string>
-  <string name="notification_reset_description">%1$s%1$s Puede reiniciar el lanzador a %2$s</string>
-  <string name="notification_reset_duration">En dos horas,</string>
-  <string name="notification_reset_title">La limpieza automática acabó</string>
+  <string name="notification_reset_title">Iconos organizados correctamente</string>
   <string name="online_wallpaper">Más fondos</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Apagar</string>
@@ -291,6 +289,8 @@
   <string name="recommend_apps_tips">\"Esta función necesita conectarse a Internet para funcionar normalmente. Para desactivar esta función, toque el nombre de esta carpeta\".</string>
   <string name="recommend_loading">Cargando</string>
   <string name="refresh">Recargar</string>
+  <string name="reset_description_first_time">Puedes restaurar tu escritorio desde %1$s durante 2 horas</string>
+  <string name="reset_description_others">Puedes restaurar tu escritorio desde %1$s</string>
   <string name="reset_fail">Error al restablecer</string>
   <string name="reset_scene_prompt">El escenario volverá al diseño predeterminado.</string>
   <string name="reset_title">restablecer</string>

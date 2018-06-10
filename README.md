@@ -15,7 +15,7 @@ Special thanks to the active translators volunteers:
 Si quieres ayudar a traducir crea una issue en el repositorio para más información.
 
 # ACTUAL BASE / BASE ACTUAL
-MIUI10 8.6.6
+MIUI10 8.6.7
 
 # FINISHED / FINALIZADO
 AuthManager.apk
@@ -152,11 +152,11 @@ XMRemoteController.apk
 
 Teleservice.apk
 
-
-# TODO / PENDIENTE
-
 PersonalAssistant.apk
 
 Settings.apk
+
+# TODO / PENDIENTE
+
 
 

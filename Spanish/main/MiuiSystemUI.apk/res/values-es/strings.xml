@@ -434,6 +434,7 @@
   <string name="daltonizer_mode_protanomaly">Protanomalia  (rojo-verde)</string>
   <string name="daltonizer_mode_tritanomaly">Tricromático (azul-amarillo)</string>
   <string name="daltonizer_type_overridden">Anulado por %1$s</string>
+  <string name="data_connection_no_internet">Sin internet</string>
   <string name="data_saver">Ahorro de datos</string>
   <string name="data_usage_disabled_dialog">Alcanzaste el límite de uso de datos especificado.\n\nPuede que tu operador te cobre por volver a activar datos.</string>
   <string name="data_usage_disabled_dialog_3g_title">Datos de 2G-3G inhabilitados</string>
@@ -1045,6 +1046,7 @@
   <string name="notification_channel_disabled">Ya no recibirás estas notificaciones.</string>
   <string name="notification_channel_general">Mensajes generales</string>
   <string name="notification_channel_location">Ubicación</string>
+  <string name="notification_channel_screenbutton">Pantalla</string>
   <string name="notification_channel_screenshot">Captura de pantalla</string>
   <string name="notification_channel_storage">Almacenamiento</string>
   <string name="notification_channel_switch_accessibility">Permitir notificaciones desde este canal</string>
@@ -1226,6 +1228,9 @@
   <string name="quick_settings_nfc_off">NFC está deshabilitado</string>
   <string name="quick_settings_nfc_on">NFC está activado</string>
   <string name="quick_settings_night_display_label">Luz nocturna</string>
+  <string name="quick_settings_night_secondary_label_on_at">A las %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Al anochecer</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Al amanecer</string>
   <string name="quick_settings_notifications_label">Notificaciones</string>
   <string name="quick_settings_papermode_label">Modo de lectura</string>
   <string name="quick_settings_powermode_label">Modo de rendimiento</string>
@@ -1242,6 +1247,7 @@
   <string name="quick_settings_screenbutton_label">Botones</string>
   <string name="quick_settings_screenlock_label">Bloquear pantalla</string>
   <string name="quick_settings_screenshot_label">Captura de pantalla</string>
+  <string name="quick_settings_secondary_label_until">Hasta %s</string>
   <string name="quick_settings_settings_label">Configuración</string>
   <string name="quick_settings_sync_label">Sincronización</string>
   <string name="quick_settings_tethering_label">Tethering</string>
